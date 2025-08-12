@@ -1,24 +1,39 @@
-# appcadastrofuncionarios
+# Formulário de cadastro de Funcionários
 
-## Project setup
-```
+## Objetivo:
+
+O objetivo deste projeto é desenvolvimento de uma página SPA que realiza cadastro de funcionários em uma lista usando a tecnologia JavaScript VueJS.
+
+Você pode visualizar também o site criado em:
+
+https://gstechdeveloper.github.io/CadastroFuncionarios/#/
+
+## Instalação
+
+Abra um terminal na pasta do projeto e rode:
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### Compilação:
+
+Após a etapa de instalação rode para compilar e rodar o projeto:
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### Build para produção:
+
+Para buildar a aplicação para fazer o deploy rode:
+
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+| Developer       | Versão |
+| --------------- | ------ |
+| Gabriel Azevedo | 1.0    |
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Site](C:\Users\gabriel.azevedo\Desktop\teste.png)
