@@ -36,4 +36,5 @@ npm run build
 | --------------- | ------ |
 | Gabriel Azevedo | 1.0    |
 
-![Site](C:\Users\gabriel.azevedo\Desktop\teste.png)
+<img width="1357" height="667" alt="image" src="https://github.com/user-attachments/assets/e96a3202-a2d9-4a6d-8cee-f2e3ad443219" />
+
